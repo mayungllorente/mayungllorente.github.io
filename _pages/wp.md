@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-* Labor-Market Concentration and Workers Outcomes: Evidence from Chile (<i> with Álvaro García-Marín and Matías Tapia
+* Labor-Market Concentration and Workers Outcomes: Evidence from Chile (_with Álvaro García-Marín and Matías Tapia_)
