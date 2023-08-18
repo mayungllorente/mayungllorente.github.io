@@ -9,5 +9,3 @@ paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S03014215193074
 ---
 
 [Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0301421519307463)
-
-#Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
