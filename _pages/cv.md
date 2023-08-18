@@ -11,7 +11,7 @@ redirect_from:
 
 PDF
 ======
-You can find my CV [here]((http://alvarocastilloa.github.io/files/CV_AlvaroCastillo.pdf)
+You can find my CV [here](http://alvarocastilloa.github.io/files/CV_AlvaroCastillo.pdf)
 
 Education
 ======
