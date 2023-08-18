@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Alvaro Castillo"
-  avatar           : "profile.png"
+  avatar           : "20210331_141625.jpeg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Santiago, Chile"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Central Bank of Chile"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_i1VEsIAAAAJ&hl=es"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
