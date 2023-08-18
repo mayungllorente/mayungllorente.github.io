@@ -9,7 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
-======
-* paper 1
-  * with JMP 
+* Labor-Market Concentration and Workers Outcomes: Evidence from Chile (<i> with Álvaro García-Marín and Matías Tapia
