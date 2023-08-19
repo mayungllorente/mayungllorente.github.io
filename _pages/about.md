@@ -16,5 +16,5 @@ Hopefully, this year I will apply for PhD in Economics. (2023).
 
 <b>Email</b>: adcastillo@bcentral.cl
 
-![Klaus](/images/IMG_7724.jpeg)
+![Klaus](/images/IMG_7724.jpeg){: heigth="250" }
 
