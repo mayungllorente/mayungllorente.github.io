@@ -13,7 +13,7 @@ redirect_from:
 * Firm shocks and Passthrough to Worker Earnings (_with Ana Sofía León and Matías Tapia_) [Draft soon]
 * Pricing along the Production Chain (_[Luis F. Céspedes](https://scholar.google.com/citations?user=-JSkVSQAAAAJ&hl=es&oi=ao), [Jorge Miranda-Pinto](https://sites.google.com/site/cokeconphd/home?authuser=0) and [Javier Turén](https://javierturen.wixsite.com/jturen)_)
 * The Exchange Rate Pass-through in a Network of Producers (_with [Mariana García](https://sites.google.com/site/mgarciaschmidt) and [Jorge Miranda-Pinto](https://sites.google.com/site/cokeconphd/home?authuser=0)_)
-* Commodity price shocks and production networks [master's thesis version](https://repositorio.uchile.cl/xmlui/bitstream/handle/2250/185906/Tesis%20-%20Alvaro%20Castillo.pdf?sequence=1)
+* Commodity price shocks and production networks (_[master's thesis version](https://repositorio.uchile.cl/xmlui/bitstream/handle/2250/185906/Tesis%20-%20Alvaro%20Castillo.pdf?sequence=1)_)
 
 Research Experience
 ===================
