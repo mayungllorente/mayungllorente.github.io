@@ -10,10 +10,10 @@ redirect_from:
 
 Welcome to my website (still under construction). 
 
-I am research analyst at the research department (DIE) of the Central Bank of Chile. I obtain my MSc. in Economics from the University of Chile. My research interests include: A, B and C.
+I am research analyst at the research department (DIE) of the Central Bank of Chile. My research experience is related to topics such as production networks, labor market dynamics and pricing. 
 
-Hopefully, this year I will apply for PhD in Economics (2023).
+I got my MSc. in Economics from the University of Chile. Hopefully, this year I will apply for PhD in Economics (2023).
 
-<b>Email</b>: adcastillo@bcentral.cl
+<b>Email</b>: adcastillo@bcentral.cl; alvaro.castilloag@gmail.com
 
 
