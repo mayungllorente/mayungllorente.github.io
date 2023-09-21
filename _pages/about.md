@@ -16,6 +16,3 @@ I got my MSc. in Economics from the University of Chile. Hopefully, this year I 
 
 <b>Email</b>: alvaro.castilloag@gmail.com; adcastillo@bcentral.cl
 
-
-${ \color{white}{Central Bank Chile} }$
-
