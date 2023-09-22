@@ -10,5 +10,3 @@ redirect_from:
 {% include base_path %}
 
 You can find my CV [here](http://alvarocastilloa.github.io/files/CV_AlvaroCastillo.pdf)
-
-$${\color{lightgreen}Hello \space World} $$
