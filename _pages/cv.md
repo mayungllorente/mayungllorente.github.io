@@ -13,4 +13,4 @@ You can find my CV [here](http://alvarocastilloa.github.io/files/CV_AlvaroCastil
 
 $$ \CentralBank{red} $$
 
-$$ {\color{red}{Central \space Bank of Chile}} $$
+$$ {\color{red}{Central \space Bank \space of \space Chile}} $$
