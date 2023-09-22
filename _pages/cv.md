@@ -11,4 +11,4 @@ redirect_from:
 
 You can find my CV [here](http://alvarocastilloa.github.io/files/CV_AlvaroCastillo.pdf)
 
-\textcolor{red}{Hello}
+$$ \textcolor{red}{Hello} $$
