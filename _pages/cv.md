@@ -11,4 +11,4 @@ redirect_from:
 
 You can find my CV [here](http://alvarocastilloa.github.io/files/CV_AlvaroCastillo.pdf)
 
-$$ {\color{white}{Central \space Bank \space of \space Chile}} $$
+## $$ {\color{white}{Central \space Bank \space of \space Chile}} $$
