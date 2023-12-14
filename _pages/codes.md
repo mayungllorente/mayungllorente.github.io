@@ -5,7 +5,8 @@ excerpt: "Codes"
 author_profile: true
 redirect_from: 
   - /codes/
-  - /codes.html
+#  - /codes.html
 ---
+{% include base_path %}
 
 I am currently preparing replicable code to share
