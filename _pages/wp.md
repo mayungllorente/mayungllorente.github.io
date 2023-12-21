@@ -20,7 +20,7 @@ Research Experience
 
 As a research assistant I have contributed to several articles. Acknowledgements to my name can be found at:
 
-* Business Cycle Asymmetry and Input-Output Structure: The Role of Firm-to-Firm Networks (_J. Miranda-Pinto, A. Silva and E. Young_) [Forthcoming Journal of Monetary Economics](https://cokeconphd.github.io/Website/Skewness_Network_revised_10_Feb_2023.pdf)
+* Business Cycle Asymmetry and Input-Output Structure: The Role of Firm-to-Firm Networks (_J. Miranda-Pinto, A. Silva and E. Young_) [Journal of Monetary Economics. Volume 137, July 2023](https://cokeconphd.github.io/Website/Skewness_Network_revised_10_Feb_2023.pdf)
 
 
 
