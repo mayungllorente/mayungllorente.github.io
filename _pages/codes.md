@@ -11,21 +11,12 @@ redirect_from:
 I am currently preparing replicable code to share
 
 > Dealing with matrices in Stata
-In preparation
 
-### Using Python from Stata
-In preparation
+> Using Python from Stata
 
-Approximation of the inverse of huge matrices
-===================
-In preparation
+> Approximation of the inverse of huge matrices
 
-Short introduction to frames in Stata
-===================
-In preparation
+> Short introduction to frames in Stata
 
-
-Colorpalettes
-===================
-In preparation
+> Colorpalettes
 
