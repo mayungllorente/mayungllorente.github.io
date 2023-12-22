@@ -10,12 +10,10 @@ redirect_from:
 
 I am currently preparing replicable code to share
 
-Dealing with matrices in Stata
-===================
+> Dealing with matrices in Stata
 In preparation
 
-Using Python from Stata
-===================
+### Using Python from Stata
 In preparation
 
 Approximation of the inverse of huge matrices
