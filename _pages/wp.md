@@ -15,7 +15,7 @@ redirect_from:
 * The Exchange Rate Pass-through in a Network of Producers (_with [Mariana García](https://sites.google.com/site/mgarciaschmidt) and [Jorge Miranda-Pinto](https://sites.google.com/site/cokeconphd/home?authuser=0)_)
 * Commodity price shocks and production networks (_[master's thesis version](https://repositorio.uchile.cl/xmlui/bitstream/handle/2250/185906/Tesis%20-%20Alvaro%20Castillo.pdf?sequence=1), tons of things to do here_)
 
-Research Experience
+Research assistant experience
 ===================
 
 As a research assistant I have contributed to several articles. Acknowledgements to my name can be found at:
