@@ -10,4 +10,5 @@ redirect_from:
 
 I have created and used these notes to study for the comprehensive exam for the master's degree in economics at the University of Chile. These notes are written in Spanish.
 
-[]
+>[Graduate Microeconomics](http://alvarocastilloa.github.io/files/Apuntes_EG_Microeconomía.pdf)
+>[Graduate Macroeconomics](http://alvarocastilloa.github.io/files/Apuntes_EG_Macroeconomía.pdf)
