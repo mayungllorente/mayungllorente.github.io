@@ -13,3 +13,4 @@ I have created and used these notes to study for the comprehensive exam for the 
 >[Graduate Microeconomics](http://alvarocastilloa.github.io/files/Apuntes_EG_Microeconomics.pdf)
 
 >[Graduate Macroeconomics](http://alvarocastilloa.github.io/files/Apuntes_EG_Macroeconomics.pdf)
+
