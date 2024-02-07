@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am currently preparing replicable code to share
+I am currently preparing replicable code to share with you.
 
 > Dealing with matrices in Stata
 
@@ -20,3 +20,6 @@ I am currently preparing replicable code to share
 
 > Colorpalettes
 
+In the meantime, here are some pages that may be useful to you:
+
+* The Stata Guide: https://medium.com/the-stata-guide
