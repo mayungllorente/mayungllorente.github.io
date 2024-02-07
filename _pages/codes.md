@@ -28,4 +28,4 @@ In the meantime, here are some pages that may be useful to you:
 
 * [<b>Stata-to-Python equivalences</b>](https://www.danielmsullivan.com/pages/tutorial_stata_to_python.html#bysort): Switching from Stata to Python? Here you will find the basics to maintain your workflow.
 
-* [<b>MATLAB-Python-Julia cheatsheet[</b>](https://cheatsheets.quantecon.org/#dependencies-and-setup)
+* [<b>MATLAB-Python-Julia cheatsheet</b>](https://cheatsheets.quantecon.org/#dependencies-and-setup)
