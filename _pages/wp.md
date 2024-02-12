@@ -25,7 +25,7 @@ As a research assistant I have contributed to several articles. Acknowledgements
 * Saving Constraints, Inequality, and the Credit Market Response to Fiscal Stimulus (_J. Miranda-Pinto, D. Murphy, K. Walsh,  and E. Young_) [European Economic Review. Vol. 151, January 2023](https://www.sciencedirect.com/science/article/abs/pii/S0014292122002355)
 
 * Productivity Growth and Workers’ Job Transitions: Evidence from Censal Microdata (_E. Albagli, M. Canales, C. Syverson, M. Tapia and J. Wlasiuk_) [Accepted at The Economic Journal]
-* 
+  
 * Market integration and price leadership: The U.S. Atlantic salmon market (_L. Salazar and J. Dresdner_) [Aquaculture Economics & Management, 25:3, 245-259](https://www.tandfonline.com/doi/abs/10.1080/13657305.2020.1843562)
 
 * Do Chilean imports lead prices in the EU mussel market? (_L. Salazar and J. Dresdner_) [Aquaculture Economics & Management, 27:2, 207-220](https://www.tandfonline.com/doi/full/10.1080/13657305.2022.2089771)
