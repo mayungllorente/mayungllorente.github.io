@@ -22,7 +22,7 @@ I am currently preparing replicable code to share with you.
 
 In the meantime, here are some pages that may be useful to you:
 
-* [<b>The Stata Guide</b>](https://medium.com/the-stata-guide): you will find many advanced Stata tips. Learn about visualization, framing, and more here.
+* [<b>The Stata Guide</b>](https://medium.com/the-stata-guide): you will find many advanced Stata tips. Learn about visualization, frames, formats, and more here.
 
 * [<b>R graph gallery</b>](https://r-graph-gallery.com/all-graphs.html): do you need inspiration to make figures? this is the right place to get it.
 
