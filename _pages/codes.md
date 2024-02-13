@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+ 
 I am currently preparing replicable code to share with you.
 
 > Dealing with matrices in Stata
